@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "398288303465",
+    "project_id": "hafizprogram-17672",
+    "storage_bucket": "hafizprogram-17672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398288303465:android:93edc19140829c6b3379f8",
+        "android_client_info": {
+          "package_name": "com.example.hafiz_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398288303465-5m07uqao9ojcgsbfo038madi81b9jk4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNV-VraE7HBIyk0k_iAhTeTSJAQ5dBBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398288303465-5m07uqao9ojcgsbfo038madi81b9jk4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398288303465-0nsgt55tb0po249ibtchovb52kb42etl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hafizProje"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
