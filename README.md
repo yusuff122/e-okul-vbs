@@ -1,16 +1,4 @@
-# hafiz_proje
 
-A new Flutter project.
 
-## Getting Started
+Similar to “e-School VBS”, this system tracks student attendance and class participation. Instructors can enter attendance data indicating which classes the student attended or missed. The system also includes a parent information feature that allows parents to receive information about their children's attendance throughout the semester.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
